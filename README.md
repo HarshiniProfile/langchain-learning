@@ -1237,7 +1237,7 @@ This will:
 ## ⚙️ Installation & Setup 
 1. **Clone this repository:**
   ```bash
-   git clone https://github.com/shinyyyy18/Langchain.git
+   git clone https://github.com/HarshiniProfile/langchain-learning.git
    cd Langchain
    ```
 2. **Create and activate a virtual environment:**
